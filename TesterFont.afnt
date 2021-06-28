@@ -1,5 +1,5 @@
 {
-  "export" : "file:\/\/\/Users\/joshcooley\/projects\/forks\/JoshCooley\/Watchy\/examples\/WatchFaces\/FontTester\/TesterFont.fontsrc\/",
+  "export" : "file:\/\/\/Users\/joshcooley\/projects\/WatchyFontTester\/TesterFont.fontsrc\/",
   "capHeight" : 7,
   "characters" : [
     {
@@ -21,7 +21,7 @@
     {
       "xOffset" : 1,
       "xAdvance" : 8,
-      "bitmap" : "                      1 1      1 1      1 1                                      ",
+      "bitmap" : "                     11 11    11 11    11 11                                     ",
       "yOffset" : 7,
       "width" : 9,
       "height" : 9
@@ -29,7 +29,7 @@
     {
       "xOffset" : 1,
       "xAdvance" : 8,
-      "bitmap" : "                             1 1     11111     1 1     11111     1 1             ",
+      "bitmap" : "                    1  1    111111    1  1     1  1    111111    1  1            ",
       "yOffset" : 7,
       "width" : 9,
       "height" : 9
@@ -61,7 +61,7 @@
     {
       "xOffset" : 1,
       "xAdvance" : 8,
-      "bitmap" : "                        1        1        1                                      ",
+      "bitmap" : "                       11       11       11                                      ",
       "yOffset" : 7,
       "width" : 9,
       "height" : 9
@@ -91,12 +91,12 @@
       "height" : 9
     },
     {
-      "xOffset" : -1,
-      "xAdvance" : 6,
-      "bitmap" : "11111  11  11  11  11111",
-      "yOffset" : 6,
-      "width" : 4,
-      "height" : 6
+      "xOffset" : 1,
+      "xAdvance" : 8,
+      "bitmap" : "                      1        1      11111      1        1                      ",
+      "yOffset" : 7,
+      "width" : 9,
+      "height" : 9
     },
     {
       "xOffset" : 1,
@@ -251,12 +251,12 @@
       "height" : 6
     },
     {
-      "xOffset" : -1,
-      "xAdvance" : 6,
-      "bitmap" : "11111  11  11  11  11111",
-      "yOffset" : 6,
-      "width" : 4,
-      "height" : 6
+      "xOffset" : 1,
+      "xAdvance" : 9,
+      "bitmap" : "            111111   111  111  11  111      11                  11        11              ",
+      "yOffset" : 7,
+      "width" : 10,
+      "height" : 9
     },
     {
       "xOffset" : -1,
@@ -475,52 +475,52 @@
       "height" : 9
     },
     {
-      "xOffset" : -1,
-      "xAdvance" : 6,
-      "bitmap" : "11111  11  11  11  11111",
-      "yOffset" : 6,
-      "width" : 4,
-      "height" : 6
-    },
-    {
-      "xOffset" : -1,
-      "xAdvance" : 6,
-      "bitmap" : "11111  11  11  11  11111",
-      "yOffset" : 6,
-      "width" : 4,
-      "height" : 6
-    },
-    {
-      "xOffset" : -1,
-      "xAdvance" : 6,
-      "bitmap" : "11111  11  11  11  11111",
-      "yOffset" : 6,
-      "width" : 4,
-      "height" : 6
-    },
-    {
-      "xOffset" : -1,
-      "xAdvance" : 6,
-      "bitmap" : "11111  11  11  11  11111",
-      "yOffset" : 6,
-      "width" : 4,
-      "height" : 6
-    },
-    {
-      "xOffset" : -1,
-      "xAdvance" : 6,
-      "bitmap" : "11111  11  11  11  11111",
-      "yOffset" : 6,
-      "width" : 4,
-      "height" : 6
-    },
-    {
-      "xOffset" : 0,
+      "xOffset" : 1,
       "xAdvance" : 8,
-      "bitmap" : "",
-      "yOffset" : 0,
-      "width" : 0,
-      "height" : 0
+      "bitmap" : "            111      1        1        1        1        1        111            ",
+      "yOffset" : 7,
+      "width" : 9,
+      "height" : 9
+    },
+    {
+      "xOffset" : 1,
+      "xAdvance" : 8,
+      "bitmap" : "          1         1        1         1         1        1         1            ",
+      "yOffset" : 7,
+      "width" : 9,
+      "height" : 9
+    },
+    {
+      "xOffset" : 1,
+      "xAdvance" : 8,
+      "bitmap" : "            111        1        1        1        1        1      111            ",
+      "yOffset" : 7,
+      "width" : 9,
+      "height" : 9
+    },
+    {
+      "xOffset" : 1,
+      "xAdvance" : 8,
+      "bitmap" : "                      1       1 1     1   1   1     1                            ",
+      "yOffset" : 7,
+      "width" : 9,
+      "height" : 9
+    },
+    {
+      "xOffset" : 1,
+      "xAdvance" : 8,
+      "bitmap" : "                                                                1111111          ",
+      "yOffset" : 7,
+      "width" : 9,
+      "height" : 9
+    },
+    {
+      "xOffset" : 1,
+      "xAdvance" : 8,
+      "bitmap" : "           11        11        11                                                ",
+      "yOffset" : 7,
+      "width" : 9,
+      "height" : 9
     },
     {
       "xOffset" : 0,
@@ -731,36 +731,36 @@
       "height" : 9
     },
     {
-      "xOffset" : -1,
-      "xAdvance" : 6,
-      "bitmap" : "11111  11  11  11  11111",
-      "yOffset" : 6,
-      "width" : 4,
-      "height" : 6
+      "xOffset" : 1,
+      "xAdvance" : 8,
+      "bitmap" : "             11      1        1       1         1        1         11            ",
+      "yOffset" : 7,
+      "width" : 9,
+      "height" : 9
     },
     {
-      "xOffset" : -1,
-      "xAdvance" : 6,
-      "bitmap" : "11111  11  11  11  11111",
-      "yOffset" : 6,
-      "width" : 4,
-      "height" : 6
+      "xOffset" : 1,
+      "xAdvance" : 8,
+      "bitmap" : "             1        1        1        1        1        1        1             ",
+      "yOffset" : 7,
+      "width" : 9,
+      "height" : 9
     },
     {
-      "xOffset" : -1,
-      "xAdvance" : 6,
-      "bitmap" : "11111  11  11  11  11111",
-      "yOffset" : 6,
-      "width" : 4,
-      "height" : 6
+      "xOffset" : 1,
+      "xAdvance" : 8,
+      "bitmap" : "            11         1        1         1       1        1      11             ",
+      "yOffset" : 7,
+      "width" : 9,
+      "height" : 9
     },
     {
-      "xOffset" : -1,
-      "xAdvance" : 6,
-      "bitmap" : "11111  11  11  11  11111",
-      "yOffset" : 6,
-      "width" : 4,
-      "height" : 6
+      "xOffset" : 1,
+      "xAdvance" : 8,
+      "bitmap" : "                             11   1   1 1 1   1   11                             ",
+      "yOffset" : 7,
+      "width" : 9,
+      "height" : 9
     }
   ],
   "xHeight" : 5,
